@@ -7,5 +7,8 @@
 } */
 
 p {
-  margin: 0 auto 30px;
+  /* colocando margin no topo de 15px e 30px lado esquerdo e direito */
+  margin: 15px 30px;
 }
+
+/* dar preferência sempre para short hando (códigos curtos) */
