@@ -1,0 +1,24 @@
+p {
+  border: double 50px ;
+  /* border-top-color: red;
+  border-right-color: blue;
+  border-bottom-color: green;
+  border-left-style: dashed;
+  background-color: aquamarine; */
+  max-width: 800px;
+  min-width: 100px;
+  /* forma shorthand */
+
+  border-color: red green blue white;
+  border-radius: 50%;
+}
+
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
